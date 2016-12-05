@@ -1,0 +1,9 @@
+Alberto Rocha
+
+Node.js is a server-side platform. The language that is used for the node is javaScript.
+There are a couple of features of Node.js. 1.) Node.js is asynchronous and event driven 
+meaning that when code executes it read it, but it never waits for the response, however it
+will come back to execute the the response pending. 2.) It is very fast using chrome's v8 javaScript
+engine. 3.) Node.js is single threaded. Do to the fact that Node.js respones in a non-blocking
+manner it allows it to be highly scalable. 4.) Lastly, Node.js does not buffer data meaning 
+as soon as it gets data it releases it.  
